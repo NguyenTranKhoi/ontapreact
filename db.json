@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "name": "chuooi edit",
+      "price": "1234",
+      "description": "hello",
+      "id": 2
+    },
+    {
+      "name": "hello kitty hehe",
+      "price": "50000",
+      "description": "hehehe",
+      "id": 3
+    },
+    {
+      "name": "quả dưa chuột",
+      "price": "12000000",
+      "description": "ngon",
+      "id": 4
+    },
+    {
+      "name": "quả dưa hấu",
+      "price": "50000000",
+      "description": "ngon bổ rẻ",
+      "id": 5
+    },
+    {
+      "name": "quả xoài non",
+      "price": "20000000",
+      "description": "chua quá",
+      "id": 6
+    },
+    {
+      "name": "quả cóc bao tử",
+      "price": "15000000",
+      "description": "thiếu nước chấm",
+      "id": 7
+    },
+    {
+      "name": "quả dưa lưới",
+      "price": "30303030",
+      "description": "ngọt quá",
+      "id": 8
+    }
+  ],
+  "user": []
+}
